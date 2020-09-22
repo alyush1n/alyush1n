@@ -19,8 +19,8 @@ Hi, I'm Valeriy - a junior Golang developer from Saint Petersburg studying in IT
 
 <details>
 <summary>Expand</summary>
-<img src="https://imgur.com/mAJCRtl">
-<img src="https://imgur.com/L0bl8XQ">
+<img src="https://i.imgur.com/mAJCRtl.jpg" align="center">
+<img src="https://i.imgur.com/etDsn5o.jpg" align="center">
 </details>
 
 ## Contact me 📞
