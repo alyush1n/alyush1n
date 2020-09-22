@@ -26,10 +26,10 @@ Hi, I'm Valeriy - a junior Golang developer from Saint Petersburg studying in IT
 
 ## Contact me 📞
 * ✉️ [Email](mailto:lermanworks@gmail.com)
-* ✈️ [Telegram](t.me/lermanlermanlerman)
-* 🐶 [VK](vk.com/3xlerman)
-* 📸 [Instagram](instagram.com/lermanlermanlerman)
-* 🐤 [Twitter](twitter.com/3xlerman)
+* ✈️ [Telegram](https://t.me/lermanlermanlerman)
+* 🐶 [VK](https://vk.com/3xlerman)
+* 📸 [Instagram](https://instagram.com/lermanlermanlerman)
+* 🐤 [Twitter](https://twitter.com/3xlerman)
 
 ## Some statistics 📈
 
