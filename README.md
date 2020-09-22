@@ -7,20 +7,19 @@ Hi, I'm Valeriy - a junior Golang developer from Saint Petersburg studying in IT
 * 🏆 Won 2 hackathons
 
 ## My projects 🛠
-* 🔑 [keyzu.ru](keyzu.ru) - cryptocurrnecy wallet
-* 📚 [projecteuler.net](projecteuler.net) - 12 / 726
-* 🏖 More on my [GitHub profile](github.com/3xlerman)
+* 🔑 [keyzu.ru](https://keyzu.ru) - cryptocurrnecy wallet
+* 📚 [projecteuler.net](https://projecteuler.net) - 12 / 726
+* 🏖 More on my [GitHub profile](https://github.com/3xlerman)
 
 ## Hackathons 👨🏻‍💻
 * 🏆 **Sep 2020 Хакатон Труда II - First place**
 * 🏁 Mar 2020 HackUniversity - "Smart city" case finalist
 * 🏆 **Dec 2019 Bonch.hack - "Bonch.dev's Choice" nomination winner (as leader)**
 ### Photos 📷
+>![](https://imgur.com/mAJCRtl)
+>![](https://imgur.com/L0bl8XQ)
 <details>
 <summary>Expand</summary>
-
-<img src="https://imgur.com/mAJCRtl" align="center" height="33%" width="33%">
-<img src="https://imgur.com/L0bl8XQ" align="center" height="33%" width="33%">
 
 </details>
 
