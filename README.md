@@ -16,11 +16,11 @@ Hi, I'm Valeriy - a junior Golang developer from Saint Petersburg studying in IT
 * 🏁 Mar 2020 HackUniversity - "Smart city" case finalist
 * 🏆 **Dec 2019 Bonch.hack - "Bonch.dev's Choice" nomination winner (as leader)**
 ### Photos 📷
->![](https://imgur.com/mAJCRtl)
->![](https://imgur.com/L0bl8XQ)
+
 <details>
 <summary>Expand</summary>
-
+<img src="https://imgur.com/mAJCRtl">
+<img src="https://imgur.com/L0bl8XQ">
 </details>
 
 ## Contact me 📞
