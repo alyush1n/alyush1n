@@ -9,7 +9,7 @@ Hi, I'm Valeriy - a junior Golang developer from Saint Petersburg studying in IT
 ## My projects 🛠
 * 🔑 [keyzu.ru](https://keyzu.ru) - cryptocurrnecy wallet
 * 📚 [projecteuler.net](https://projecteuler.net) - 12 / 726
-* 🏖 More on my [GitHub profile](https://github.com/3xlerman)
+* 🏖 More on my [GitHub profile](https://github.com/3xlerman?tab=repositories)
 
 ## Hackathons 👨🏻‍💻
 * 🏆 **Sep 2020 Хакатон Труда II - First place**
