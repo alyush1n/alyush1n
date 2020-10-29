@@ -2,7 +2,7 @@
 Hi, I'm Valeriy - a junior Golang developer from Saint Petersburg studying in ITMO University.
 
 ## About me 😏
-* ⚡️ 18 years old
+* ⚡️ 19 years old
 * 🇷🇺 Russia, Saint Petersburg
 * 🏆 Won 2 hackathons
 
