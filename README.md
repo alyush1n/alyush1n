@@ -1,6 +1,8 @@
 # Valeriy Alyushin / @3xlerman
 Hi, I'm Valeriy - a junior backend developer from Saint Petersburg studying in ITMO University.
 
+# [3x.social](https://3x.social)
+
 ## About me 😏
 * ⚡️ 19 years old
 * 🇷🇺 Russia, Saint Petersburg
