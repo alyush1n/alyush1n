@@ -1,18 +1,20 @@
 # Valeriy Alyushin / @3xlerman
-Hi, I'm Valeriy - a junior Golang developer from Saint Petersburg studying in ITMO University.
+Hi, I'm Valeriy - a junior backend developer from Saint Petersburg studying in ITMO University.
 
 ## About me 😏
 * ⚡️ 19 years old
 * 🇷🇺 Russia, Saint Petersburg
-* 🏆 Won 2 hackathons
+* 🏆 Won 3 hackathons
 
 ## My projects 🛠
+* 🔑 [Bitgesell Crypto Wallet backend](https://github.com/semyon-dev/backend-bgl-wallet)
 * 🔑 [keyzu.ru](https://keyzu.ru) - cryptocurrnecy wallet
 * 🧑‍💻 [Work-hackathon project](https://github.com/semyon_dev/hackathon-of-work)
 * 📚 [projecteuler.net](https://projecteuler.net) - 13 / 726
 * 🏖 More on my [GitHub profile](https://github.com/3xlerman?tab=repositories)
 
 ## Hackathons 👨🏻‍💻
+* 🏆 **Nov 2020 Crypto Wallet Kickstart (powered by Bitgesell) - Mobile wallet First place** / [GitHub repository](https://github.com/semyon-dev/backend-bgl-wallet)
 * 🏆 **Sep 2020 Хакатон Труда II - First place** / [GitHub repository](https://github.com/semyon_dev/hackathon-of-work)
 * 🏁 Mar 2020 HackUniversity - "Smart city" case finalist
 * 🏆 **Dec 2019 Bonch.hack - "Bonch.dev's Choice" nomination winner (as leader)**
