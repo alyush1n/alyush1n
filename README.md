@@ -37,9 +37,9 @@ Hi, I'm Valeriy - a junior backend developer from Saint Petersburg studying in I
 
 ## Some statistics 📈
 
-![Profile views](https://gpvc.arturio.dev/3xlerman)
+![Profile views](https://gpvc.arturio.dev/3xdev)
 
-[![3xlerman's github stats](https://github-readme-stats.vercel.app/api?username=3xlerman)](https://github.com/anuraghazra/github-readme-stats)
+[![3xlerman's github stats](https://github-readme-stats.vercel.app/api?username=3xdev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3xlerman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3xdev)](https://github.com/anuraghazra/github-readme-stats)
 
