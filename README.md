@@ -1,4 +1,4 @@
-# Valeriy Alyushin / @3xlerman
+# Valeriy Alyushin / @alyush1n
 Hi, I'm Valeriy - a junior backend developer from Saint Petersburg studying in ITMO University.
 
 # [3x.social](https://3x.social)
@@ -37,9 +37,9 @@ Hi, I'm Valeriy - a junior backend developer from Saint Petersburg studying in I
 
 ## Some statistics 📈
 
-![Profile views](https://gpvc.arturio.dev/3xdev)
+![Profile views](https://gpvc.arturio.dev/alyush1n)
 
-[![3xlerman's github stats](https://github-readme-stats.vercel.app/api?username=3xdev)](https://github.com/anuraghazra/github-readme-stats)
+[![alyush1n's github stats](https://github-readme-stats.vercel.app/api?username=alyush1n)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3xdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyush1n)](https://github.com/anuraghazra/github-readme-stats)
 
