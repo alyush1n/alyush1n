@@ -1,12 +1,12 @@
 # Valeriy Alyushin / @alyush1n
-Hi, I'm Valeriy - a junior backend developer from Saint Petersburg studying in ITMO University.
+Hi, I'm Valeriy - developer from Saint Petersburg studying in ITMO University.
 
 # [3x.social](https://3x.social)
 
 ## About me 😏
 * ⚡️ 19 years old
 * 🇷🇺 Russia, Saint Petersburg
-* 🏆 Won 3 hackathons
+* 🏆 Won 5 hackathons
 
 ## My projects 🛠
 * 🔑 [Bitgesell Crypto Wallet backend](https://github.com/semyon-dev/backend-bgl-wallet)
@@ -16,9 +16,11 @@ Hi, I'm Valeriy - a junior backend developer from Saint Petersburg studying in I
 * 🏖 More on my [GitHub profile](https://github.com/3xlerman?tab=repositories)
 
 ## Hackathons 👨🏻‍💻
+* 🏆 **18 Jun 2021 Moscow City Hack - "i.moscow SuperApp" case First place**
+* 🏁 6 Jun 2021 DevHack - "PSB Sport Mobile App" case finalist
 * 🏆 **Nov 2020 Crypto Wallet Kickstart (powered by Bitgesell) - Mobile wallet First place** / [GitHub repository](https://github.com/semyon-dev/backend-bgl-wallet)
 * 🏆 **Sep 2020 Хакатон Труда II - First place** / [GitHub repository](https://github.com/semyon_dev/hackathon-of-work)
-* 🏁 Mar 2020 HackUniversity - "Smart city" case finalist
+* 🏁 Mar 2020 HACKUNIVERSITY - "Smart city" case finalist
 * 🏆 **Dec 2019 Bonch.hack - "Bonch.dev's Choice" nomination winner (as leader)**
 ### Photos 📷
 
