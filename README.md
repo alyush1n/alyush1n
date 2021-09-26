@@ -16,6 +16,7 @@ Hi, I'm Valeriy - developer from Saint Petersburg studying in ITMO University.
 * 🏖 More on my [GitHub profile](https://github.com/3xlerman?tab=repositories)
 
 ## Hackathons 👨🏻‍💻
+* 🏁 29 Aug 2021 GPN.Tech Challenge hackathon finalist
 * 🏁 22 Aug 2021 Leaders of Digital - "Nov.legend" case finalist
 * 🏆 **18 Jun 2021 Moscow City Hack - "i.moscow SuperApp" case First place**
 * 🏁 6 Jun 2021 DevHack - "PSB Sport Mobile App" case finalist
