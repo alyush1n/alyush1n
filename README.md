@@ -4,7 +4,7 @@ Hi, I'm Valeriy - developer from Saint Petersburg studying in ITMO University.
 # [3x.social](https://3x.social)
 
 ## About me 😏
-* ⚡️ 19 years old
+* ⚡️ 20 years old
 * 🇷🇺 Russia, Saint Petersburg
 * 🏆 Won 5 hackathons
 
@@ -16,6 +16,7 @@ Hi, I'm Valeriy - developer from Saint Petersburg studying in ITMO University.
 * 🏖 More on my [GitHub profile](https://github.com/3xlerman?tab=repositories)
 
 ## Hackathons 👨🏻‍💻
+* 10 Oct 2021 MORE.tech 3.0 hackathon participant
 * 🏁 29 Aug 2021 GPN.Tech Challenge hackathon finalist
 * 🏁 22 Aug 2021 Leaders of Digital - "Nov.legend" case finalist
 * 🏆 **18 Jun 2021 Moscow City Hack - "i.moscow SuperApp" case First place**
@@ -34,9 +35,9 @@ Hi, I'm Valeriy - developer from Saint Petersburg studying in ITMO University.
 
 ## Contact me 📞
 * ✉️ [Email](mailto:lermanworks@gmail.com)
-* ✈️ [Telegram](https://t.me/lermanlermanlerman)
-* 🐶 [VK](https://vk.com/3xlerman)
-* 📸 [Instagram](https://instagram.com/lermanlermanlerman)
+* ✈️ [Telegram](https://t.me/alyush1nv)
+* 🐶 [VK](https://vk.com/alyush1nv)
+* 📸 [Instagram](https://instagram.com/alyush1nv)
 * 🐤 [Twitter](https://twitter.com/3xlerman)
 
 ## Some statistics 📈
