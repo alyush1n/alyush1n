@@ -1,8 +1,6 @@
 # Valeriy Alyushin / @alyush1n
 Hi, I'm Valeriy - developer from Saint Petersburg studying in ITMO University.
 
-# [3x.social](https://3x.social)
-
 ## About me 😏
 * ⚡️ 20 years old
 * 🇷🇺 Russia, Saint Petersburg
