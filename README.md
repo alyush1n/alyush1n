@@ -1,10 +1,11 @@
 # Valeriy Alyushin / @alyush1n
-Hi, I'm Valeriy - developer from Saint Petersburg studying in ITMO University.
+Hi, I'm Valeriy - developer from Saint Petersburg working and studying in ITMO University.
 
 ## About me 😏
 * ⚡️ 20 years old
 * 🇷🇺 Russia, Saint Petersburg
 * 🏆 Won 5 hackathons
+* 🛠 Go developer at ITMO University
 
 ## My projects 🛠
 * 🔑 [Bitgesell Crypto Wallet backend](https://github.com/semyon-dev/backend-bgl-wallet)
@@ -14,6 +15,7 @@ Hi, I'm Valeriy - developer from Saint Petersburg studying in ITMO University.
 * 🏖 More on my [GitHub profile](https://github.com/3xlerman?tab=repositories)
 
 ## Hackathons 👨🏻‍💻
+* 13 Jun 2022 Moscow City Hack participant
 * 10 Oct 2021 MORE.tech 3.0 hackathon participant
 * 🏁 29 Aug 2021 GPN.Tech Challenge hackathon finalist
 * 🏁 22 Aug 2021 Leaders of Digital - "Nov.legend" case finalist
