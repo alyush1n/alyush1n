@@ -15,8 +15,8 @@ Hi, I'm Valeriy - developer from Saint Petersburg working and studying in ITMO U
 * 🏖 More on my [GitHub profile](https://github.com/3xlerman?tab=repositories)
 
 ## Hackathons 👨🏻‍💻
-* 🏆 **11 Nov 2021 finoDAYS Superfinal Second place**
-* 🏆 **10 Nov 2021 finoDAYS - "Face Mask Recognition" case First place finalist**
+* 🏆 **11 Nov 2022 finoDAYS Superfinal Second place**
+* 🏆 **10 Nov 2022 finoDAYS - "Face Mask Recognition" case First place finalist**
 * 13 Jun 2022 Moscow City Hack participant
 * 10 Oct 2021 MORE.tech 3.0 hackathon participant
 * 🏁 29 Aug 2021 GPN.Tech Challenge hackathon finalist
