@@ -1,8 +1,8 @@
 # Valeriy Alyushin / @alyush1n
-Hi, I'm Valeriy - developer from Saint Petersburg working and studying in ITMO University.
+Hi, I'm Valeriy - developer from Saint Petersburg working in ITMO University.
 
 ## About me 😏
-* ⚡️ 21 years old
+* ⚡️ 22 years old
 * 🇷🇺 Russia, Saint Petersburg
 * 🏆 Won 6 hackathons
 * 🛠 Go developer at ITMO University
